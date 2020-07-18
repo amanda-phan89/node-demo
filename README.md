@@ -19,7 +19,12 @@ CREATE TABLE `images` (
 ```
 npm run start_promise
 ```
-- For async/await:
+- For demo async/await:
 ```
 npm run start_await
+```
+
+- For demo callback:
+```
+npm run start_callback
 ```

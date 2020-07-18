@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start_promise": "node src/indexPromise",
-    "start_await": "node src/indexAwait"
+    "start_await": "node src/indexAwait",
+    "start_callback": "node src/indexCallback"
   },
   "author": "",
   "license": "MIT",

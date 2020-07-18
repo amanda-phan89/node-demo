@@ -52,7 +52,7 @@ function writeFile(fileName, content) {
                 reject(err);
                 return;
             }
-            resolve("success" + fileName);
+            resolve(fileName);
         })
     })
 }
