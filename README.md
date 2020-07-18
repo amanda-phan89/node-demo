@@ -17,9 +17,9 @@ CREATE TABLE `images` (
 # Running
 - For demo promise: 
 ```
-node indexPromise
+npm run start_promise
 ```
 - For async/await:
 ```
-node indexAwait
+npm run start_await
 ```

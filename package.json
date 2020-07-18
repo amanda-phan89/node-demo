@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start_promise": "node src/indexPromise",
+    "start_await": "node src/indexAwait"
   },
   "author": "",
   "license": "MIT",
